@@ -1,0 +1,20 @@
+Metadata-Version: 2.0
+Name: driller
+Version: 1.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: angr
+Requires-Dist: archinfo
+Requires-Dist: celery
+Requires-Dist: cle
+Requires-Dist: dpkt
+Requires-Dist: redis
+Requires-Dist: termcolor
+
+UNKNOWN
+
+

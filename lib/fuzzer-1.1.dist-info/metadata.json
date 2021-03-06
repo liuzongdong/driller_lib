@@ -1,0 +1,1 @@
+{"extensions": {"python.details": {"document_names": {"description": "DESCRIPTION.rst"}}}, "extras": [], "generator": "bdist_wheel (0.29.0)", "metadata_version": "2.0", "name": "fuzzer", "run_requires": [{"requires": ["angr", "shellphish-afl", "shellphish-qemu", "tqdm"]}], "summary": "Python wrapper for multiarch AFL", "version": "1.1"}

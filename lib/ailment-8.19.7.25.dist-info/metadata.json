@@ -1,0 +1,1 @@
+{"extensions": {"python.details": {"document_names": {"description": "DESCRIPTION.rst"}, "project_urls": {"Home": "https://github.com/angr/ailment"}}}, "generator": "bdist_wheel (0.29.0)", "metadata_version": "2.0", "name": "ailment", "summary": "The angr intermediate language.", "version": "8.19.7.25"}

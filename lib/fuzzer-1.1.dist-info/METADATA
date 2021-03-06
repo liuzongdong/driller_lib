@@ -1,0 +1,17 @@
+Metadata-Version: 2.0
+Name: fuzzer
+Version: 1.1
+Summary: Python wrapper for multiarch AFL
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: angr
+Requires-Dist: shellphish-afl
+Requires-Dist: shellphish-qemu
+Requires-Dist: tqdm
+
+UNKNOWN
+
+
